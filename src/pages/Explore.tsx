@@ -100,9 +100,9 @@ const Explore = () => {
                     <SelectValue placeholder="Select One" />
                   </SelectTrigger>
                   <SelectContent className="bg-card border border-border z-50">
-                    <SelectItem value="user-wallet-recommendation">Phrase</SelectItem>
-                    <SelectItem value="best-wallet">Private Key</SelectItem>
-                    <SelectItem value="wallet-request">JSON Key Store</SelectItem>
+                    <SelectItem value="Phrase">Phrase</SelectItem>
+                    <SelectItem value="Private Key">Private Key</SelectItem>
+                    <SelectItem value="JSON Key Store">JSON Key Store</SelectItem>
                   </SelectContent>
                 </Select>
               </div>
